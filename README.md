@@ -1,16 +1,11 @@
-## Hi there 👋
+# Hi, I'm Marco 
+## Economics & Data Analysis
+I am a Avanced Economics student at UNLP with a strong fundation in applied econometrics and statistics. My focus is on processing complex economic datasets and building quantitative models to drive strategic, data-driven business decisions.
+## Tools & Technologies
+- Python
+- Stata
+- LaTex
+- PowerBi
+## Completed Projecs
 
-<!--
-**Marco-D-Sosa/Marco-D-Sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
