@@ -9,4 +9,4 @@ I am an Advanced Economics student at UNLP with a strong foundation in applied e
 ## Completed Projects
 
 ## Contact
-LinkedIn: www.linkedin.com/in/marco-diaz-de-sosa-5491653b2
+LinkedIn: linkedin.com/in/marco-diaz-de-sosa
