@@ -10,3 +10,4 @@ I am an Advanced Economics student at UNLP with a strong foundation in applied e
 
 ## Contact
 LinkedIn: linkedin.com/in/marco-diaz-de-sosa
+Mail: Marcodiazdesosa@gmail.com
