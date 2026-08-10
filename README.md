@@ -4,10 +4,9 @@ I am an Advanced Economics student at UNLP with a strong foundation in applied e
 ## Tools & Technologies
 - Python
 - Stata
-- LaTeX
+- SQL
 - Power BI
-## Completed Projects
-
+- LaTeX
 ## Contact
-- LinkedIn: linkedin.com/in/marco-diaz-de-sosa
+- LinkedIn: www.linkedin.com/in/marco-diaz-de-sosa
 - Mail: Marcodiazdesosa@gmail.com
