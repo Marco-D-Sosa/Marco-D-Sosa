@@ -1,12 +1,16 @@
-# Hi, I'm Marco 
-## Economics & Data Analysis
-I am an Advanced Economics student at UNLP with a strong foundation in applied econometrics and statistics. My focus is on processing complex economic datasets and building quantitative models to drive strategic, data-driven business decisions.
-## Tools & Technologies
+# Hi, I'm Marco 👋
+
+**Economist (UNLP, one course away from graduating) focused on data analysis and business intelligence.**
+I turn data into clear answers for business decisions.
+
+## Tools
 - Python
 - SQL
 - Stata
 - Power BI
+- Excel (VBA, Solver)
 - LaTeX
+
 ## Contact
-- LinkedIn: www.linkedin.com/in/marco-diaz-de-sosa
-- Mail: Marcodiazdesosa@gmail.com
+Full background and experience on [LinkedIn](https://www.linkedin.com/in/marco-diaz-de-sosa) · marcodiazdesosa@gmail.com
+
