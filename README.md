@@ -1,16 +1,17 @@
-# Hi, I'm Marco 👋
+# Hola, soy Marco 👋
 
-**Economist (UNLP, one course away from graduating) focused on data analysis and business intelligence.**
-I turn data into clear answers for business decisions.
+**Economista (UNLP, a una materia de graduarme) orientado al análisis de datos y la inteligencia de negocios.**
+Transformo datos en respuestas precisas para respaldar la toma de decisiones estratégicas.
 
-## Tools
-- Python
-- SQL
-- Stata
-- Power BI
-- Excel (VBA, Solver)
-- LaTeX
+## Herramientas
 
-## Contact
-Full background and experience on [LinkedIn](https://www.linkedin.com/in/marco-diaz-de-sosa) · marcodiazdesosa@gmail.com
+* Python
+* SQL
+* Stata
+* Power BI
+* Excel (VBA, Solver)
+* LaTeX
 
+## Contacto
+
+Consulte mi trayectoria y experiencia detallada en [LinkedIn](https://www.linkedin.com/in/marco-diaz-de-sosa) · marcodiazdesosa@gmail.com
