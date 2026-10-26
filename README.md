@@ -1,10 +1,10 @@
 # Hola, soy Marco 👋
 
-**Economista (UNLP, a una materia de graduarme) orientado al análisis de datos y la inteligencia de negocios.**
-Transformo datos en respuestas precisas para respaldar la toma de decisiones estratégicas.
+**Estudiante avanzado de Economía (UNLP), a una materia de graduarme.**
+
+Convierto datos en decisiones: automatizo la preparación de bases y procesos, modelo precios y escenarios, y comunico los resultados con claridad.
 
 ## Herramientas
-
 * Python
 * SQL
 * Stata
@@ -13,5 +13,4 @@ Transformo datos en respuestas precisas para respaldar la toma de decisiones est
 * LaTeX
 
 ## Contacto
-
 Consulte mi trayectoria y experiencia detallada en [LinkedIn](https://www.linkedin.com/in/marco-diaz-de-sosa) · marcodiazdesosa@gmail.com
