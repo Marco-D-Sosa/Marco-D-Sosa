@@ -13,4 +13,4 @@ Convierto datos en decisiones: automatizo la preparación de bases y procesos, m
 * LaTeX
 
 ## Contacto
-Consulte mi trayectoria y experiencia detallada en [LinkedIn](https://www.linkedin.com/in/marco-diaz-de-sosa) · marcodiazdesosa@gmail.com
+Mira mi trayectoria completa en [LinkedIn](https://www.linkedin.com/in/marco-diaz-de-sosa) · marcodiazdesosa@gmail.com
